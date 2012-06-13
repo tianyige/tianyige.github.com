@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
+tagline: 独立之思想 自由之精神
 ---
 {% include JB/setup %}
 
