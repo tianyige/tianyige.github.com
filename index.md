@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: 天一阁
 tagline: 独立之思想 自由之精神
 ---
 {% include JB/setup %}
